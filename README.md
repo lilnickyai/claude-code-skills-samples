@@ -2,6 +2,8 @@
 
 Free sample skills from Lil Nicky AI. Each one is a real, installable skill for Claude Code — not a prompt.
 
+> 🚀 **Launching on Product Hunt Tuesday Oct 20:** The Complete Claude Code Skills Bundle (12 installable skills, $29). Follow the launch to get notified: https://www.producthunt.com/products/the-complete-claude-code-skills-bundle?launch=the-complete-claude-code-skills-bundle
+
 ## Get new skills by email
 
 Join the list and get new free skills in your inbox: https://lil-nicky-ai.kit.com/d26c1ccfd6
